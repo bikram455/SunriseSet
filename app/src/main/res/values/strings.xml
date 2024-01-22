@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sunriseset</string>
+    <string name="btn_text">Change to Chinese</string>
+    <string name="SunriseTime">"Sunrise Time: "</string>
+    <string name="SunsetTime">"Sunset Time: "</string>
+</resources>
